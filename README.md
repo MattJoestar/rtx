@@ -1,2 +1,1 @@
-# rtx
-trex rtx
+# Juegos-compatibles-con-dispositivos
